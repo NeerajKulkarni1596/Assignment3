@@ -2,13 +2,13 @@
 <!-- This XML document describes a DVD library -->
 <library>
 	<dvd id="1">
-		<title>Gone with the Wind</title>
-		<format>Movie</format>
-		<genre>Classic</genre>
+		<title>Wings with fire</title>
+		<format>Book</format>
+		<genre>inspirational</genre>
 	</dvd>
 	<dvd id="2">
-		<title>Star Trek</title>
-		<format>TV Series</format>
-		<genre>Science fiction</genre>
+		<title>Harry potter</title>
+		<format>TV book Series</format>
+		<genre>fictional noval</genre>
 	</dvd>
 </library>
